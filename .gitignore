@@ -2,6 +2,7 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+Build
 .vscode
 .vs
 *.VC.db
@@ -14,4 +15,3 @@ Saved
 *.xcworkspace
 Content/MobileStarterContent
 Packages
-Build
